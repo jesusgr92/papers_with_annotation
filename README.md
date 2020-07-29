@@ -1,4 +1,4 @@
 # Papers with anotations
-Description: Repository for my papers with comments, maybe some of them are in spanish
+Descripción: compartire algunos artículos que voy leyendo y subiré los archivos en formato PDF, debido a que muchos recursos están en inglés, las anotaciones están en español 
 
-I will share some of the papers that I read with some annotations, the topics are next:
+Los artículos serán divididos en distintos temas:
